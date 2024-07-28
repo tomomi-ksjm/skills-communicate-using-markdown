@@ -5,3 +5,11 @@
 ###### これは `<h6>` ヘッダー, いちばん小さい
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+const msg = "Hello, world!!";
+```
